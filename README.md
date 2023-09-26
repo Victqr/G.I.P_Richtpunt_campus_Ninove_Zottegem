@@ -24,3 +24,16 @@ Natuurlijk, laten we de informatie in het Nederlands samenvatten:
      - Tweede laag: GPS en coördinaten.
      - Derde laag: Raspberry Pi en opslag.
      - Vierde laag: Radiocommunicatie.
+
+5. **Radiocommunicatie op CanSat**:
+   - Gebruik een radiomodule op je CanSat om gegevens te verzenden. Je hebt waarschijnlijk een UHF- of VHF-zender nodig, afhankelijk van de gewenste afstand en regelgeving in je gebied.
+
+6. **Ontwikkel de zelfgemaakte satelliet**:
+   - Ontwerp en bouw een kleine satelliet die in staat is om de signalen van de CanSat op te vangen. Dit vereist kennis van satelliettechnologie en communicatiesystemen.
+
+7. **Grondstation**:
+   - Stel een grondstation op met een antenne en een ontvanger die in staat is om de signalen van de zelfgemaakte satelliet te ontvangen. Je hebt software nodig om de gegevens te decoderen.
+
+8. **Frequentiecoördinatie**:
+   - Zorg ervoor dat je de juiste frequentiecoördinatie hebt voor je radiosignalen om storingen te voorkomen en wettelijke voorschriften te volgen.
+
