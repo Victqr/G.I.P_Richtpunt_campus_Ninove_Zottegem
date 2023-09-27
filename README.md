@@ -6,9 +6,8 @@ G.I.P Victor Limpens 6EE
 
 Naam CanSat
 
-Can -> Blikje van 33cl
-
-Sat -> mini satelliet 
+- Can -> Blikje van 33cl
+- Sat -> mini satelliet 
 
 Wat is CanSat?
 
