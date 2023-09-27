@@ -1,8 +1,6 @@
 # G.I.P
 G.I.P Victor Limpens 6EE
 
-Natuurlijk, laten we de informatie in het Nederlands samenvatten:
-
 1. **PI DS18B20 Temperatuursensor**:
    - Datasheet: [DS18B20 Datasheet](https://www.digikey.be/en/htmldatasheets/production/1668/0/0/1/ds18b20z-t-r)
    - Handleiding: [Raspberry Pi DS18B20 Temperatuursensor Handleiding](https://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/)
