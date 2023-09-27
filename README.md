@@ -20,7 +20,7 @@ Wat is CanSat?
 
 ## inhoudsopgave
 <a name="inhoudsopgave"></a>
- ## Hoofdstuk 1
+ ##### Hoofdstuk 1
 
 ****
 
