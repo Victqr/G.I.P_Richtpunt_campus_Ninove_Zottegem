@@ -20,7 +20,24 @@ Wat is CanSat?
 
 ## inhoudsopgave
 <a name="inhoudsopgave"></a>
- #### Hoofdstuk 1
+ #### DEEL 1
+   1.0 schetsen
+   1.1 ontwerp cansat
+   1.2 ontwerp pcb
+   1.3 ontwerp indeling
+   1.4 ontwerp elektrische schema's 
+
+ #### DEEL 2
+   2.0
+   2.1
+   2.2
+   2.3
+   2.4
+
+
+Delen | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- 
+Status | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ 
 
 ****
 
