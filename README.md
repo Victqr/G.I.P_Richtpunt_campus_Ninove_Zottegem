@@ -20,12 +20,15 @@ Wat is CanSat?
 
 ## inhoudsopgave
 <a name="inhoudsopgave"></a>
- #### DEEL 1
-   1.0 schetsen
-   1.1 ontwerp cansat
-   1.2 ontwerp pcb
-   1.3 ontwerp indeling
-   1.4 ontwerp elektrische schema's 
+
+| DEEL Nummer | Inhoud |
+| --- | --- |
+| `1.0` | schetsen |
+| `1.1` | ontwerp cansat |
+| `1.2` | ontwerp pcb |
+| `1.3` | ontwerp indeling |
+| `1.4` | ontwerp elektrische schema's  |
+
 
  #### DEEL 2
    2.0
