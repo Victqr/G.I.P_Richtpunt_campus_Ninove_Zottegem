@@ -2,7 +2,7 @@
 G.I.P Victor Limpens 6EE
 
 
-**G.I.P Project CanSat**
+### **G.I.P Project CanSat**
 
 Wat is CanSat?
 
@@ -20,6 +20,7 @@ Wat is CanSat?
 
 ## inhoudsopgave
 <a name="inhoudsopgave"></a>
+ ### Hoofdstuk 1
 
 ****
 
