@@ -6,7 +6,6 @@ G.I.P Victor Limpens 6EE
 
 ## inhoudsopgave
 <a name="inhoudsopgave"></a>
-### inhoudsopgave
 
 
 
