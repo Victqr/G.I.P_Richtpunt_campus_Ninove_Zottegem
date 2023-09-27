@@ -7,8 +7,7 @@ G.I.P Victor Limpens 6EE
 ## inhoudsopgave
 <a name="inhoudsopgave"></a>
 
-
-
+***
 
 1. **PI DS18B20 Temperatuursensor**:
    - Datasheet: [DS18B20 Datasheet](https://www.digikey.be/en/htmldatasheets/production/1668/0/0/1/ds18b20z-t-r)
