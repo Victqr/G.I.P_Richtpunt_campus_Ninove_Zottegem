@@ -11,9 +11,15 @@ Naam CanSat
 
 Wat is CanSat?
 
-Een team van 4 tot 6 leerlingen gaan de uitdaging aan om alle belangrijke subsystemen van een satelliet te bouwen en te doen passen in een blikje van 33 cl: de elektrische voeding, de sensoren en het communicatiesysteem. Hun satelliet(CanSat) bevat eigenlijk 2 missies:
-Een primaire missie: luchtdruk, temperatuur en hoogte meten en de data verzenden naar het grondstation tijdens de vlucht, en een veilige landing van je satellietje voorzien (meestal met een parachute).
-Een secundaire missie: een zelfbedacht experiment of technische uitdaging die je satelliet uitvoert tijdens het stijgen of dalen.
+- Een CanSat is een samenvoeging van de woorden "Can" en "Satellite" (blikje en satelliet). Het is een educatief en onderzoeksproject dat wordt gebruikt in de ruimtevaart en wetenschappelijke gemeenschap. Het doel ervan is om studenten en onderzoekers in staat te stellen te experimenteren met ruimtevaarttechnologie en wetenschappelijke metingen te verrichten met een klein, goedkoop en eenvoudig te lanceren apparaat.
+
+- Een CanSat is meestal ter grootte van een blikje frisdrank of iets groter. Het bevat sensoren en apparatuur die gegevens kunnen verzamelen, zoals temperatuur, luchtdruk, hoogte, snelheid en meer, terwijl het in de lucht is. Dit apparaat wordt dan gelanceerd in de ruimte met behulp van een raket of een ballon.
+
+- Waarom is dit belangrijk? Ten eerste is het een geweldige leerervaring voor studenten in technische en wetenschappelijke vakgebieden. Ze kunnen leren over ruimtevaarttechnologie, dataverzameling en analyse, en teamwork terwijl ze hun eigen CanSat-missie plannen en uitvoeren.
+
+- Bovendien kunnen CanSats nuttige gegevens opleveren voor verschillende toepassingen, zoals weermetingen, milieuonderzoek of technologietests. Het zijn als kleine, betaalbare satellieten die kortstondige missies kunnen uitvoeren en waardevolle informatie kunnen verzamelen.
+
+- Dus, CanSat is een educatief en onderzoeksinitiatief waarmee studenten en onderzoekers praktische ervaring kunnen opdoen in de ruimtevaart en wetenschap, terwijl ze tegelijkertijd gegevens verzamelen die nuttig kunnen zijn voor verschillende toepassingen.
 
 ****
 
