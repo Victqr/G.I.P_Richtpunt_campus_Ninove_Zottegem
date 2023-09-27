@@ -21,21 +21,19 @@ Wat is CanSat?
 ## inhoudsopgave
 <a name="inhoudsopgave"></a>
 
-| File | Inhoud |
-| --- | --- |
-| `1.0` | schetsen |
-| `1.1` | ontwerp cansat |
-| `1.2` | ontwerp pcb |
-| `1.3` | ontwerp indeling |
-| `1.4` | ontwerp elektrische schema's  |
-
-
- #### DEEL 2
-   2.0
-   2.1
-   2.2
-   2.3
-   2.4
+| File      | Inhoud                 |
+|    ---    |          ---           |
+| `1.0`     | schetsen               |
+| `1.0.1`   |  cansat                |
+| `1.0.2`   |  pcb                   |
+| `1.0.3`   |  indeling              |
+| `1.0.4`   |  elektrische schema's  |
+|           |                        |
+| `2.0`     | tekenigen officieel    |
+| `2.0.1`   | cansat                 |
+| `2.0.2`   | pcb                    |
+| `2.0.3`   | indeling               |
+| `2.0.4`   | elektrische schema's   |
 
 
 Delen | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 
