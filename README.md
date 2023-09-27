@@ -40,7 +40,19 @@ Wat is CanSat?
    ---      | --- | ---   | ---   |---    |---    | --- |---    |---    |---    |--- 
    Status   |❌|❌|❌|❌|❌|❌|❌|❌|❌|❌ 
    Teamlid   |❌|❌|❌|❌|❌|❌|❌|❌|❌|❌ 
-   
+
+
+|TAAK|	NAAM |
+|    ---    |          ---           |
+|COMMUNICATIE|	Stijn |
+|3D PRINTING|	Siebe|
+|PROGRAMEREN|	Victor|
+|SOLDEREN|	Xander|
+|MONTEREN|	Gilles|
+|DATA COMMUNICATIE|	Gilles en Xander|
+|PARACHUTE|	Victor en Stijn|
+|BEGELEIDER|	Van Eesbeek|
+
    
 
 ****
