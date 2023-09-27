@@ -18,7 +18,7 @@ G.I.P Victor Limpens 6EE
    Deze handleiding legt uit hoe je een GPS-ontvanger kunt aansluiten op een Raspberry Pi 4 om GPS-coördinaten te verkrijgen.
 
 4. **Gelaagde Opstelling**:
-     - Eerste laag: Temperatuur- en luchtdrukmeting.
+     - Eerste laag: Temperatuur- en luchtdrukmeting en andere sensoren.
      - Tweede laag: GPS en coördinaten.
      - Derde laag: Raspberry Pi en opslag.
      - Vierde laag: Radiocommunicatie.
