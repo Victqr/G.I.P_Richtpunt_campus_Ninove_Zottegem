@@ -4,11 +4,6 @@ G.I.P Victor Limpens 6EE
 
 **G.I.P Project CanSat**
 
-Naam CanSat
-
-- Can -> Blikje van 33cl
-- Sat -> mini satelliet 
-
 Wat is CanSat?
 
 - Een CanSat is een samenvoeging van de woorden "Can" en "Satellite" (blikje en satelliet). Het is een educatief en onderzoeksproject dat wordt gebruikt in de ruimtevaart en wetenschappelijke gemeenschap. Het doel ervan is om studenten en onderzoekers in staat te stellen te experimenteren met ruimtevaarttechnologie en wetenschappelijke metingen te verrichten met een klein, goedkoop en eenvoudig te lanceren apparaat.
