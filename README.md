@@ -39,3 +39,4 @@ G.I.P Victor Limpens 6EE
 9. **Raspberry Pico**:
    - Bron: [Raspberry Pico](https://picockpit.com/raspberry-pi/nl/alles-over-de-raspberry-pi-pico/)
    - Bron: [Raspberry Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+
