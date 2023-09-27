@@ -1,4 +1,4 @@
-# G.I.P
+# G.I.P Richtpunt campus Ninove Zottegem
 G.I.P Victor Limpens 6EE
 
 1. **PI DS18B20 Temperatuursensor**:
