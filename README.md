@@ -4,12 +4,9 @@ G.I.P Victor Limpens 6EE
 
 **Project Cansat**
 
-inhoudsopgave
-
-
-## Table of Contents
-<a name="general-info"></a>
-### General Info
+## inhoudsopgave
+<a name="inhoudsopgave"></a>
+### inhoudsopgave
 
 
 
