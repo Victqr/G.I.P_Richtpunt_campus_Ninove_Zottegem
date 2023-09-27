@@ -35,3 +35,5 @@ G.I.P Victor Limpens 6EE
 8. **Frequentiecoördinatie**:
    - Zorg ervoor dat je de juiste frequentiecoördinatie hebt voor je radiosignalen om storingen te voorkomen en wettelijke voorschriften te volgen.
 
+9. **Raspberry Pico**:
+   - Bron: [Raspberry Pico](https://picockpit.com/raspberry-pi/nl/alles-over-de-raspberry-pi-pico/)
