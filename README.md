@@ -7,9 +7,11 @@ G.I.P Victor Limpens 6EE
 Naam CanSat
 
 Can -> Blikje van 33cl
+
 Sat -> mini satelliet 
 
 Wat is CanSat?
+
 Een team van 4 tot 6 leerlingen gaan de uitdaging aan om alle belangrijke subsystemen van een satelliet te bouwen en te doen passen in een blikje van 33 cl: de elektrische voeding, de sensoren en het communicatiesysteem. Hun satelliet(CanSat) bevat eigenlijk 2 missies:
 Een primaire missie: luchtdruk, temperatuur en hoogte meten en de data verzenden naar het grondstation tijdens de vlucht, en een veilige landing van je satellietje voorzien (meestal met een parachute).
 Een secundaire missie: een zelfbedacht experiment of technische uitdaging die je satelliet uitvoert tijdens het stijgen of dalen.
