@@ -21,7 +21,7 @@ Wat is CanSat?
 ## inhoudsopgave
 <a name="inhoudsopgave"></a>
 
-| DEEL Nummer | Inhoud |
+| File | Inhoud |
 | --- | --- |
 | `1.0` | schetsen |
 | `1.1` | ontwerp cansat |
