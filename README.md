@@ -138,12 +138,10 @@ Wat is CanSat?
        Het gebruik van een Raspberry Pi voor GPS-logging biedt flexibiliteit, programmeermogelijkheden en de mogelijkheid om andere sensoren te integreren, afhankelijk van        je projectvereisten. Het is een kosteneffectieve manier om locatiegebaseerde gegevens vast te leggen en te verwerken.
 
 12. **Back-UP opslag**
+
        ° Absoluut, back-upopslag is een cruciaal element in missies waar betrouwbaarheid en volledigheid van gegevens van groot belang zijn. Hier zijn enkele redenen                waarom je
          zou kunnen kiezen voor back-upopslag in plaats van radiocommunicatie voor het vergelijken van verloren gegevens:
-
          Betrouwbaarheid van Gegevens:
-
          Radiocommunicatie kan onderbroken worden door verschillende factoren zoals atmosferische storingen, interferentie of technische problemen. Back-upopslag biedt een          fysieke oplossing om ervoor te zorgen dat alle gegevens veilig worden bewaard, zelfs als er communicatieproblemen optreden.
          Missie Duur:
-
          Als de CanSat gedurende een langere periode zelfstandig werkt, kan het gebruik van back-upopslag nuttig zijn. Het vermijdt datagegevensverlies dat zou kunnen               optreden tijdens momenten waarop er geen communicatie mogelijk is.
