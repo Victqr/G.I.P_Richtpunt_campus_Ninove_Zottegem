@@ -117,3 +117,22 @@ Wat is CanSat?
 
        Een gas sensor kan worden toegevoegd als aanvulling op andere sensoren om een meer uitgebreid beeld te krijgen van de omgevingscondities waarin de CanSat zich              bevindt.
        Bij het gebruik van een gas sensor is het belangrijk om te weten welke specifieke gassen de sensor kan detecteren en hoe gevoelig en specifiek de sensor is voor die        gassen. Daarnaast moet je rekening houden met de kalibratie van de sensor om nauwkeurige metingen te verkrijgen.
+
+
+11. **MenuRaspberry Pi GPS Logger**
+   - Bron: [Open MenuRaspberry Pi GPS Logger](https://www.instructables.com/Raspberry-Pi-GPS-Logger/)
+     - Een Raspberry Pi GPS Logger kan handig zijn in verschillende situaties waarin je de geografische locatie van een apparaat wilt volgen en registreren. Hier zijn een         paar redenen waarom je een Pi GPS Logger zou kunnen gebruiken:
+
+       Navigatie en Tracking:
+
+       Als je een project hebt waarin je de bewegingen van een object of persoon wilt volgen, zoals een voertuig, een wandelaar, of een dier, kan een GPS Logger nuttig            zijn. Het kan bijvoorbeeld worden gebruikt voor outdoor-activiteiten, zoals wandeltochten of geocaching.
+       Wetenschappelijk Onderzoek:
+
+       Voor onderzoek in geografie, ecologie, of andere wetenschappelijke disciplines kan het belangrijk zijn om de exacte locatie van gegevensverzameling vast te leggen.         Een GPS Logger op een Raspberry Pi kan hierbij van dienst zijn.
+       Projecten met Ruimtelijke Analyse:
+
+       Als je geïnteresseerd bent in het analyseren van gegevens op basis van geografische locatie, zoals het maken van kaarten of het bestuderen van patronen in beweging,        is een GPS Logger een waardevol hulpmiddel.
+       Educative Purposes:
+
+       Voor educatieve doeleinden kan een GPS Logger op een Raspberry Pi worden gebruikt om studenten te leren over geografie, navigatie, en het gebruik van GPS-                  technologie.
+       Het gebruik van een Raspberry Pi voor GPS-logging biedt flexibiliteit, programmeermogelijkheden en de mogelijkheid om andere sensoren te integreren, afhankelijk van        je projectvereisten. Het is een kosteneffectieve manier om locatiegebaseerde gegevens vast te leggen en te verwerken.
