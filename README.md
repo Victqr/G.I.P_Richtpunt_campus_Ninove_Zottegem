@@ -96,3 +96,23 @@ Wat is CanSat?
    - Bron: [Raspberry Pico](https://picockpit.com/raspberry-pi/nl/alles-over-de-raspberry-pi-pico/)
    - Bron: [Raspberry Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
+10. **gas sensor (MQ-X)**
+   - Bron: [gas sensor (MQ-X)](https://tutorials-raspberrypi.com/configure-and-read-out-the-raspberry-pi-gas-sensor-mq-x/)
+     - Het gebruik van een gas sensor, zoals de MQ-serie, bij het meten van gasconcentraties in de lucht met een CanSat (CubeSatellite) kan verschillende voordelen hebben,        afhankelijk van het doel van je project. Hier zijn een paar redenen waarom je een gas sensor zou kunnen overwegen:
+
+      Veiligheid en Milieu-monitoring:
+
+      Een gas sensor kan worden gebruikt om de concentratie van bepaalde gassen in de lucht te meten. Dit is handig als je de luchtkwaliteit wilt controleren en mogelijk         schadelijke gassen wilt identificeren.
+      Wetenschappelijk Onderzoek:
+
+      Als je een wetenschappelijk experiment uitvoert waarbij je de aanwezigheid van specifieke gassen moet meten, kan een gas sensor waardevolle gegevens leveren.
+      Toepassingen in Atmosferische Wetenschappen:
+
+      Voor projecten gericht op het bestuderen van de atmosfeer of het uitvoeren van meteorologische metingen, kan een gas sensor nuttige informatie bieden over de               samenstelling van de lucht.
+      Bewustmaking over Luchtkwaliteit:
+
+      Het meten van gassen zoals koolmonoxide, koolstofdioxide, of andere verontreinigende stoffen kan worden gebruikt om bewustzijn te creëren over luchtkwaliteit en de         impact van menselijke activiteiten.
+      Aanvullende Gegevensverzameling:
+
+      Een gas sensor kan worden toegevoegd als aanvulling op andere sensoren om een meer uitgebreid beeld te krijgen van de omgevingscondities waarin de CanSat zich              bevindt.
+      Bij het gebruik van een gas sensor is het belangrijk om te weten welke specifieke gassen de sensor kan detecteren en hoe gevoelig en specifiek de sensor is voor die        gassen. Daarnaast moet je rekening houden met de kalibratie van de sensor om nauwkeurige metingen te verkrijgen.
