@@ -96,7 +96,9 @@ Wat is CanSat?
    - Bron: [Raspberry Pico](https://picockpit.com/raspberry-pi/nl/alles-over-de-raspberry-pi-pico/)
    - Bron: [Raspberry Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
-10. **gas sensor (MQ-X)**
+## **Secundaire missie**
+
+1. **gas sensor (MQ-X)**
    - Bron: [gas sensor (MQ-X)](https://tutorials-raspberrypi.com/configure-and-read-out-the-raspberry-pi-gas-sensor-mq-x/)
      - Het gebruik van een gas sensor, zoals de MQ-serie, bij het meten van gasconcentraties in de lucht met een CanSat kan verschillende voordelen hebben,              
        afhankelijk van het doel van je project. Hier zijn een paar redenen waarom je een gas sensor zou kunnen overwegen:
@@ -119,7 +121,7 @@ Wat is CanSat?
        Bij het gebruik van een gas sensor is het belangrijk om te weten welke specifieke gassen de sensor kan detecteren en hoe gevoelig en specifiek de sensor is voor die        gassen. Daarnaast moet je rekening houden met de kalibratie van de sensor om nauwkeurige metingen te verkrijgen.
 
 
-11. **MenuRaspberry Pi GPS Logger**
+2. **MenuRaspberry Pi GPS Logger**
    - Bron: [Open MenuRaspberry Pi GPS Logger](https://www.instructables.com/Raspberry-Pi-GPS-Logger/)
      - Een Raspberry Pi GPS Logger kan handig zijn in verschillende situaties waarin je de geografische locatie van een apparaat wilt volgen en registreren. Hier zijn een         paar redenen waarom je een Pi GPS Logger zou kunnen gebruiken:
 
@@ -137,16 +139,15 @@ Wat is CanSat?
        Voor educatieve doeleinden kan een GPS Logger op een Raspberry Pi worden gebruikt om studenten te leren over geografie, navigatie, en het gebruik van GPS-                  technologie.
        Het gebruik van een Raspberry Pi voor GPS-logging biedt flexibiliteit, programmeermogelijkheden en de mogelijkheid om andere sensoren te integreren, afhankelijk van        je projectvereisten. Het is een kosteneffectieve manier om locatiegebaseerde gegevens vast te leggen en te verwerken.
 
-12. **Back-UP opslag**
+3. **Back-UP opslag**
+     - Absoluut, back-upopslag is een cruciaal element in missies waar betrouwbaarheid en volledigheid van gegevens van groot belang zijn. Hier zijn enkele redenen                waarom je
+       zou kunnen kiezen voor back-upopslag in plaats van radiocommunicatie voor het vergelijken van verloren gegevens:
 
-       - Absoluut, back-upopslag is een cruciaal element in missies waar betrouwbaarheid en volledigheid van gegevens van groot belang zijn. Hier zijn enkele redenen                waarom je
-         zou kunnen kiezen voor back-upopslag in plaats van radiocommunicatie voor het vergelijken van verloren gegevens:
+       Betrouwbaarheid van Gegevens:
+       Radiocommunicatie kan onderbroken worden door verschillende factoren zoals atmosferische storingen, interferentie of technische problemen. Back-upopslag biedt een          fysieke oplossing om ervoor te zorgen dat alle gegevens veilig worden bewaard, zelfs als er communicatieproblemen optreden.
 
-         Betrouwbaarheid van Gegevens:
-         Radiocommunicatie kan onderbroken worden door verschillende factoren zoals atmosferische storingen, interferentie of technische problemen. Back-upopslag biedt een          fysieke oplossing om ervoor te zorgen dat alle gegevens veilig worden bewaard, zelfs als er communicatieproblemen optreden.
+       Missie Duur:
+       Als de CanSat gedurende een langere periode zelfstandig werkt, kan het gebruik van back-upopslag nuttig zijn. Het vermijdt datagegevensverlies dat zou kunnen               optreden tijdens momenten waarop er geen communicatie mogelijk is.
 
-         Missie Duur:
-         Als de CanSat gedurende een langere periode zelfstandig werkt, kan het gebruik van back-upopslag nuttig zijn. Het vermijdt datagegevensverlies dat zou kunnen               optreden tijdens momenten waarop er geen communicatie mogelijk is.
-
-         Data-analyse na de Missie:
-         Het hebben van alle gegevens opgeslagen op een fysiek medium vergemakkelijkt de analyse na de missie. Onderzoekers kunnen de gegevens rustig bestuderen zonder de           beperkingen van real-time monitoring.
+       Data-analyse na de Missie:
+       Het hebben van alle gegevens opgeslagen op een fysiek medium vergemakkelijkt de analyse na de missie. Onderzoekers kunnen de gegevens rustig bestuderen zonder de           beperkingen van real-time monitoring.
