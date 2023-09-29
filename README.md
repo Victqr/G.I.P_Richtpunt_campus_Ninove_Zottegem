@@ -139,9 +139,14 @@ Wat is CanSat?
 
 12. **Back-UP opslag**
 
-       ° Absoluut, back-upopslag is een cruciaal element in missies waar betrouwbaarheid en volledigheid van gegevens van groot belang zijn. Hier zijn enkele redenen                waarom je
+       - Absoluut, back-upopslag is een cruciaal element in missies waar betrouwbaarheid en volledigheid van gegevens van groot belang zijn. Hier zijn enkele redenen                waarom je
          zou kunnen kiezen voor back-upopslag in plaats van radiocommunicatie voor het vergelijken van verloren gegevens:
+
          Betrouwbaarheid van Gegevens:
          Radiocommunicatie kan onderbroken worden door verschillende factoren zoals atmosferische storingen, interferentie of technische problemen. Back-upopslag biedt een          fysieke oplossing om ervoor te zorgen dat alle gegevens veilig worden bewaard, zelfs als er communicatieproblemen optreden.
+
          Missie Duur:
          Als de CanSat gedurende een langere periode zelfstandig werkt, kan het gebruik van back-upopslag nuttig zijn. Het vermijdt datagegevensverlies dat zou kunnen               optreden tijdens momenten waarop er geen communicatie mogelijk is.
+
+         Data-analyse na de Missie:
+         Het hebben van alle gegevens opgeslagen op een fysiek medium vergemakkelijkt de analyse na de missie. Onderzoekers kunnen de gegevens rustig bestuderen zonder de           beperkingen van real-time monitoring.
