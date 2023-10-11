@@ -46,7 +46,7 @@ Wat is CanSat?
 |    ---    |          ---           |
 |COMMUNICATIE|	Stijn |
 |3D PRINTING|	Siebe|
-|PROGRAMEREN|	Victor|
+|PROGRAMMEREN|	Victor|
 |SOLDEREN|	Xander|
 |MONTEREN|	Gilles|
 |DATA COMMUNICATIE|	Gilles en Xander|
