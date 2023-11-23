@@ -1,4 +1,4 @@
-##DUTCH
+## DUTCH
 # G.I.P Richtpunt campus Ninove Zottegem
 G.I.P Victor Limpens 6EE
 
@@ -153,7 +153,7 @@ Wat is CanSat?
        Data-analyse na de Missie:
        Het hebben van alle gegevens opgeslagen op een fysiek medium vergemakkelijkt de analyse na de missie. Onderzoekers kunnen de gegevens rustig bestuderen zonder de           beperkingen van real-time monitoring.
 
-##ENGLISH
+## ENGLISH
 
 # G.I.P Campus Ninove Zottegem
 G.I.P Victor Limpens 6EE
