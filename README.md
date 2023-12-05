@@ -50,7 +50,7 @@ What is CanSat?
 |ASSEMBLY|	Gilles|
 |DATA COMMUNICATION|	Gilles and Xander|
 |PARACHUTE|	Victor and Stijn|
-|SUPERVISOR|	Van Eesbeek|
+|SUPERVISOR|	De Geyter|
 
 ****
 
@@ -204,7 +204,7 @@ Wat is CanSat?
 |MONTEREN|	Gilles|
 |DATA COMMUNICATIE|	Gilles en Xander|
 |PARACHUTE|	Victor en Stijn|
-|BEGELEIDER|	Van Eesbeek|
+|BEGELEIDER|	De Geyter|
 
    
 
