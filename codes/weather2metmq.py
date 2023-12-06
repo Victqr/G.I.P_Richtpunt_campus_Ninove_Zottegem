@@ -45,8 +45,9 @@ rfm.node = 120
 rfm.destination = 100
 
 bmp = BME280(i2c=i2c, address=BMP280_I2CADDR)  # create a bmp object
-adc = ADC(Pin(26))  # TMP36 analog pin
 led = Pin(25, Pin.OUT)  # Onboard LED
+adcpin = 27
+tmp36 = ADC(adcpin)
 
 # Main Loop
 print('Frequency     :', rfm.frequency_mhz)
@@ -59,10 +60,14 @@ counter = 1  # set counter
 ctime = time.time()  # time now
 
 while True:
+    adc_value = tmp36.read_u16()
+    volt = (3.3/65535)*adc_value
+    degC = (100*volt)-50
+    print(round(degC, 1))
     temp, pressure, humidity = bmp.raw_values  # read BMP280: Temp, pressure (hPa), humidity
     mq5_lpg = mq5_sensor.readLPG()
     mq5_methane = mq5_sensor.readMethane()
-    msg = f"c: {counter}, p: {pressure:.2f}, t: {temp:.2f}, l: {mq5_lpg:.2f}, m: {mq5_methane:.2f}, Spacesence"
+    msg = f"c: {counter}, p: {pressure:.2f}, t: {temp:.2f}, t: {degC} l: {mq5_lpg:.2f}, m: {mq5_methane:.2f}, Spacesence"
     print(msg)
     led.on()  # Led ON while sending data
     rfm.send(bytes(msg, "utf-8"))

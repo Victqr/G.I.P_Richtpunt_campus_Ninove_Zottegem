@@ -5,7 +5,7 @@ from rfm69 import RFM69
 from bme280 import BME280, BMP280_I2CADDR
 import time
 
-NAME           = "data from SpaceSence/Kers_SAT"
+NAME           = "SpaceSence"
 FREQ           = 433.8
 
 ENCRYPTION_KEY = b"\x01\x02\x03\x04\x05\x06\x07\x08\x01\x02\x03\x04\x05\x06\x07\x08"
