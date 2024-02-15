@@ -5,14 +5,8 @@ import time
 co2_sensor_pin = machine.ADC(26)  # Verander 26 naar de pin die je gebruikt
 
 def read_co2_level():
-    # Lees de analoge waarde van de sensor
-    sensor_value = co2_sensor_pin.read_u16()
-
-    # Converteer de ruwe sensorwaarde naar ppm (parts per million) voor CO2
-    # De exacte conversie hangt af van de specificaties van de sensor
-    # Dit is een algemene benadering en kan worden aangepast aan de specificaties van je sensor
-    co2_ppm = sensor_value / 65535 * 5000  # 0-5000 ppm
-    
+    sensor_value = co2_sensor_pin.read_u16()  
+    co2_ppm = sensor_value / 65535 * 5000     
     return co2_ppm
 
 def main():

@@ -9,7 +9,7 @@ import machine
 co2_sensor_pin = machine.ADC(26)
 O3_sensor_pin = machine.ADC(27)
 
-NAME           = "SpaceSence"
+NAME           = "SpaceSense"
 FREQ           = 433.8
 
 ENCRYPTION_KEY = b"\x01\x02\x03\x04\x05\x06\x07\x08\x01\x02\x03\x04\x05\x06\x07\x08"
