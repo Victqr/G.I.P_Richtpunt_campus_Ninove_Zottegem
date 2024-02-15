@@ -119,3 +119,5 @@ class BaseMQ:
         if ratio <= 0:
             return 0  # Voorkom logaritme van negatieve of nulwaarden
         return exp((log(ratio)-b)/a)
+    
+    
