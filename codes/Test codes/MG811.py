@@ -1,29 +1,28 @@
 import machine
 import time
 
-# Definieer de pin waarop de sensor is aangesloten
+# Define the pin to which the sensor is connected
 sensor_pin = machine.ADC(27)
 
 def read_sensor():
-    # Lees de analoge waarde van de sensor
+    # Read the analog value from the sensor
     sensor_value = sensor_pin.read_u16()
 
-    # Converteer de ruwe sensorwaarde naar ppm
+    # Convert the raw sensor value to ppm
     ppm = sensor_value / 65535 * 3.3
 
     return ppm
 
 def main():
     while True:
-        # Lees de sensorwaarde
+        # Read the sensor value
         ppm = read_sensor()
         
-        # Druk de ppm-waarde af
+        # Print the ppm value
         print("Concentration O3 (ppm): {:.2f}".format(ppm))
         
-        # Wacht een paar seconden voordat de sensor opnieuw wordt gelezen
+        # Wait for a few seconds before reading the sensor again
         time.sleep(2)
 
 if __name__ == "__main__":
     main()
-
