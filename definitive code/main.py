@@ -1,4 +1,3 @@
-""" Transmitter BMP280, TMP36, RFM69 """
 
 from machine import SPI, I2C, Pin, ADC
 from rfm69 import RFM69
